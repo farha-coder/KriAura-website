@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/KriAura-website/static/css/main.1d047b08.css",
+    "main.js": "/KriAura-website/static/js/main.f9da2317.js",
+    "static/js/453.00b4167b.chunk.js": "/KriAura-website/static/js/453.00b4167b.chunk.js",
+    "index.html": "/KriAura-website/index.html",
+    "main.1d047b08.css.map": "/KriAura-website/static/css/main.1d047b08.css.map",
+    "main.f9da2317.js.map": "/KriAura-website/static/js/main.f9da2317.js.map",
+    "453.00b4167b.chunk.js.map": "/KriAura-website/static/js/453.00b4167b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1d047b08.css",
+    "static/js/main.f9da2317.js"
+  ]
+}
