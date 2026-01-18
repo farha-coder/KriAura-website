@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/KriAura-website/static/css/main.0c76be3d.css",
-    "main.js": "/KriAura-website/static/js/main.18e57181.js",
-    "static/js/453.00b4167b.chunk.js": "/KriAura-website/static/js/453.00b4167b.chunk.js",
-    "index.html": "/KriAura-website/index.html",
-    "main.0c76be3d.css.map": "/KriAura-website/static/css/main.0c76be3d.css.map",
-    "main.18e57181.js.map": "/KriAura-website/static/js/main.18e57181.js.map",
-    "453.00b4167b.chunk.js.map": "/KriAura-website/static/js/453.00b4167b.chunk.js.map"
+    "main.css": "/static/css/main.0c76be3d.css",
+    "main.js": "/static/js/main.edbbe6de.js",
+    "static/js/453.00b4167b.chunk.js": "/static/js/453.00b4167b.chunk.js",
+    "index.html": "/index.html",
+    "main.0c76be3d.css.map": "/static/css/main.0c76be3d.css.map",
+    "main.edbbe6de.js.map": "/static/js/main.edbbe6de.js.map",
+    "453.00b4167b.chunk.js.map": "/static/js/453.00b4167b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.0c76be3d.css",
-    "static/js/main.18e57181.js"
+    "static/js/main.edbbe6de.js"
   ]
 }
